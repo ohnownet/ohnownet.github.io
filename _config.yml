@@ -1,24 +1,24 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Oh Now!
+subtitle: 哦，就现在！
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  OnNow.net 帮你自动发现最热门的话题，以及这个世界正在发生什么。
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
+    - text: 主页
       url: /
-    - text: About
+    - text: 关于
       url: /about
-    - text: Blog
+    - text: 博客
       url: /blog
-    - text: Gallery
+    - text: 画廊
       url: /gallery
-    - text: Shop
+    - text: 购物
       url : /shop
-    - text: Contact
+    - text: 联系
       url : /contact
 
 
