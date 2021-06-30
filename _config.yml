@@ -1,7 +1,7 @@
 title: Oh Now!
-subtitle: 哦，就现在！
+subtitle: 哦，现在！
 description: >- # this means to ignore newlines until "baseurl:"
-  OnNow.net 帮你自动发现最热门的话题，以及这个世界正在发生什么。
+  OnNow.net 发现当下热门话题，告诉你这个世界正在发生什么。
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,7 +30,7 @@ author_bio: 嗨，这里是OhNow！
 author_email: "ohnownet@163.com"
 author_location: China
 author_website_url: "https://ohnow.net"
-typewrite-text: OhNow 全新上线啦，快来找到你感兴趣的实时话题。
+typewrite-text: OhNow 2021全新上线啦，快来找到你感兴趣的实时话题。
 
 # Experiences
 author_work_experiences:
