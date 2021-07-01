@@ -929,7 +929,9 @@ footer {
       }
 
       .product{
+          width: 100%;
           width: auto;
+          margin: 20px !important;
           float:left;
       }
       #topNav {
@@ -1017,7 +1019,9 @@ footer {
             }
 
             .product{
-                width: auto;
+                width: 100%;
+                height: auto;
+                margin: 20px !important;
                 float:left;
             }
 
