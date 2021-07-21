@@ -2,7 +2,7 @@
 layout: post
 title:  "OhNow发展与规划白皮书"
 summary: "Getting Started using devlopr-jekyll"
-author: Sine
+author: johndoe
 date: '2021-07-21 14:35:23 +0530'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
