@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OhNow发展与规划白皮书"
-summary: "Getting Started using devlopr-jekyll"
+summary: "改变获取和洞察信息的方式"
 author: johndoe
 date: '2021-07-21 14:35:23 +0530'
 category: jekyll
@@ -12,9 +12,11 @@ usemathjax: true
 ---
 
 
-OhNow是一个智能信息流服务提供商。
+OhNow 是一个智能信息流服务提供商。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+通过大数据和人工智能的技术能力，挖掘各类网络信息，告诉你现在，在什么地方发生了什么事情。
+
+我们同时对近来发生的事情进行分析，帮助您了解事件的更多细节。
 
 Jekyll also offers powerful support for code snippets:
 
